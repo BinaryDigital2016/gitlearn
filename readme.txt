@@ -6,4 +6,4 @@ Git has a mutable index called stage.
 
 Add a branch named dev.
 
-Add a conflict line...
+Add a conflict line.
