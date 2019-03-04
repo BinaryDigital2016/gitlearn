@@ -5,3 +5,5 @@ Git is a free soft.
 Git has a mutable index called stage.
 
 Add a branch named dev.
+
+Add a conflict line.
